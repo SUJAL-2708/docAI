@@ -1,0 +1,32 @@
+[
+    {
+        "status": "success",
+        "filename": "Engineering_Mathematics_Notes.pdf",
+        "file_type": ".pdf",
+        "character_count": 3376,
+        "classification": {
+            "filename": "Engineering_Mathematics_Notes.pdf",
+            "filename_prediction": "Engineering Mathematics",
+            "filename_confidence": 1.0,
+            "primary_subject": "Engineering Physics",
+            "secondary_subjects": [],
+            "topic": "Semiconductor Physics and PN Junction",
+            "document_type": "Notes",
+            "confidence": 0.98,
+            "filename_content_match": false,
+            "reasoning": "The extracted content describes Semiconductor Physics, including definitions of semiconductors, energy bands, intrinsic/extrinsic types, formation of a PN junction, bias conditions, and applications. This clearly indicates the subject is Engineering Physics despite the filename suggesting Engineering Mathematics."
+        },
+        "decision": {
+            "decision": "auto_organize",
+            "auto_organize": true,
+            "reason": "AI classification confidence meets the threshold."
+        },
+        "organization": {
+            "status": "organized",
+            "original_path": "C:\\Users\\Sujal_Thakur\\Documents\\docAI\\folders\\Incoming\\Engineering_Mathematics_Notes.pdf",
+            "new_path": "C:\\Users\\Sujal_Thakur\\Documents\\docAI\\folders\\Organized\\Engineering Physics\\Engineering_Mathematics_Notes.pdf",
+            "subject": "Engineering Physics",
+            "message": "Document successfully organized."
+        }
+    }
+]
